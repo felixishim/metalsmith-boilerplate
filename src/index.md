@@ -4,6 +4,6 @@ layout: default.hbs
 menu-order: 1
 ---
 
-# Homepage
+# Ask 915ers!- Frequently Asked Questions
 
 Got Questions? Get Answers!
